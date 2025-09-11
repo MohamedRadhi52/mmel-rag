@@ -1,0 +1,22 @@
+# Core RAG stack (versions proches de ton environnement)
+langchain==1.0.7
+langchain-community==0.4.1
+langchain-core==1.0.5
+
+# Connecteurs OpenAI
+langchain-openai
+openai==2.8.0
+
+# Text splitters
+langchain-text-splitters
+
+# Vector store FAISS
+faiss-cpu==1.13.0
+
+# Data / calcul
+numpy==2.3.5
+pandas==2.3.3
+
+# Divers (souvent utiles)
+tqdm
+python-dotenv
