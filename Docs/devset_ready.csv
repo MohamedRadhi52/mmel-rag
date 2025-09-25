@@ -1,0 +1,51 @@
+q,gold,must_include,lang
+What are the required tests for brakes and braking systems under CS 25.735?,Docs\CS-25 (Amendment 27).pdf:430,brake|anti-skid|test,en
+"According to CS 25.729, what requirements apply to landing gear extension and retraction mechanisms?",Docs\CS-25 (Amendment 27).pdf:412,landing|gear|retraction,en
+Quels sont les critères de stabilité longitudinale statique selon CS 25.173 ?,Docs\CS-25 (Amendment 27).pdf:172,stabilité|longitudinale,fr
+"Under CS 25.101, what general performance requirements must be demonstrated?",Docs\CS-25 (Amendment 27).pdf:108,performance|demonstrate,en
+What does CS 25.121 require for one-engine-inoperative climb performance?,Docs\CS-25 (Amendment 27).pdf:142,OEI|climb|gradient,en
+"Selon CS 25.807, combien et quels types de sorties d’urgence sont requis ?",Docs\CS-25 (Amendment 27).pdf:505,sorties|urgence,fr
+"According to CS 25.703, what is required of take-off configuration warning systems?",Docs\CS-25 (Amendment 27).pdf:401,warning|take-off|configuration,en
+What are the minimum control speed requirements in CS 25.149?,Docs\CS-25 (Amendment 27).pdf:166,VMCA|VMCL|VMC,en
+Quels sont les critères d’éclairage d’urgence selon CS 25.812 ?,Docs\CS-25 (Amendment 27).pdf:519,éclairage|urgence,fr
+What does CS 25.571 require for damage tolerance and fatigue evaluation of structures?,Docs\CS-25 (Amendment 27).pdf:292,fatigue|tolerance|WFD,en
+"Under CS 25.302, how must the interaction of systems and structures be addressed?",Docs\CS-25 (Amendment 27).pdf:200,system|structure|interaction,en
+"Selon CS 25.601, quelles exigences générales s’appliquent à la conception ?",Docs\CS-25 (Amendment 27).pdf:334,conception|générales,fr
+What are the certification requirements for runway overrun awareness and alerting systems (CS 25.705)?,Docs\CS-25 (Amendment 27).pdf:407,alerting|runway|overrun,en
+"Under CS 25.109, how is accelerate-stop distance determined?",Docs\CS-25 (Amendment 27).pdf:122,accelerate-stop|distance|brake,en
+"Selon CS 25.773, quelles sont les exigences de visibilité pour le poste de pilotage ?",Docs\CS-25 (Amendment 27).pdf:448,visibilité|poste,fr
+What does CS 25.145 require for longitudinal control?,Docs\CS-25 (Amendment 27).pdf:159,pitch|control|longitudinal,en
+"Under CS 25.581, how must the aircraft be protected against lightning?",Docs\CS-25 (Amendment 27).pdf:332,lightning|protection,en
+"Selon CS 25.609, quelles protections de structure sont requises ?",Docs\CS-25 (Amendment 27).pdf:342,protection|structure,fr
+What tests are required for shock absorption of landing gear under CS 25.723?,Docs\CS-25 (Amendment 27).pdf:409,landing|gear|shock,en
+"According to AMC 25.101(g), what are the go-around performance requirements?",Docs\CS-25 (Amendment 27).pdf:112,go-around|performance,en
+Quels sont les critères de démonstration du décrochage selon CS 25.201 ?,Docs\CS-25 (Amendment 27).pdf:179,décrochage|démonstration,fr
+What does CS 25.253 require regarding high-speed characteristics?,Docs\CS-25 (Amendment 27).pdf:189,high-speed|characteristics|buffet,en
+"Under CS 25.785, what are the requirements for seats, berths, safety belts and harnesses?",Docs\CS-25 (Amendment 27).pdf:483,seats|belts|harness,en
+"Selon CS 25.671, quelles exigences s’appliquent aux systèmes de commande ?",Docs\CS-25 (Amendment 27).pdf:375,systèmes|commande,fr
+What material suitability and durability requirements are outlined in CS 25.603?,Docs\CS-25 (Amendment 27).pdf:334,materials|durability|approved,en
+"According to CS 25.333, what is the required flight manoeuvring envelope?",Docs\CS-25 (Amendment 27).pdf:211,manoeuvring|envelope|VD,en
+Quelle est la définition et l’usage des dispositifs d’alerte d’emport de vitesse de piste (CS 25.705) ?,Docs\CS-25 (Amendment 27).pdf:407,alerte|dépassement,fr
+What tests and analyses are required for wheels and tyres under CS 25.731/25.733?,Docs\CS-25 (Amendment 27).pdf:417,wheel|tyre|burst,en
+"Under CS 25.701, what interconnection requirements apply to flaps and slats?",Docs\CS-25 (Amendment 27).pdf:400,flaps|slats|interconnection,en
+"Selon CS 25.231, quelles exigences s’appliquent à la stabilité et au contrôle au sol ?",Docs\CS-25 (Amendment 27).pdf:186,stabilité|sol|taxy,fr
+What are the proof-of-structure requirements under CS 25.307?,Docs\CS-25 (Amendment 27).pdf:201,proof|structure|test,en
+"According to CS 25.335, how is design dive speed (VD/MD) established?",Docs\CS-25 (Amendment 27).pdf:212,design|dive|speed,en
+Quels sont les facteurs de sécurité exigés par CS 25.303 ?,Docs\CS-25 (Amendment 27).pdf:201,facteur|sécurité,fr
+What are the requirements for bird strike damage under CS 25.631?,Docs\CS-25 (Amendment 27).pdf:373,bird|strike|damage,en
+"Under CS 25.729 and AMC, what tests apply to gear extension/retraction systems?",Docs\CS-25 (Amendment 27).pdf:412,extension|retraction|test,en
+"Selon CS 25.745, quelles exigences s’appliquent au guidage de la roue avant (nose-wheel steering) ?",Docs\CS-25 (Amendment 27).pdf:444,guidage|roue|avant,fr
+What are the requirements for emergency evacuation under CS 25.803?,Docs\CS-25 (Amendment 27).pdf:504,evacuation|90 seconds,en
+"According to CS 25.809, how must emergency exits be arranged?",Docs\CS-25 (Amendment 27).pdf:510,emergency|exit|arrangement,en
+Quels sont les marquages requis pour les issues de secours selon CS 25.811 ?,Docs\CS-25 (Amendment 27).pdf:516,marquage|issues,fr
+"Under CS 25.813, what access and ease-of-operation requirements apply to exits?",Docs\CS-25 (Amendment 27).pdf:526,exit|access|operation,en
+What are the cockpit control requirements under CS 25.777?,Docs\CS-25 (Amendment 27).pdf:461,cockpit|controls|movement,en
+"Selon CS 25.705 et AMC, quels essais démontrent la fonction d’alerte de dépassement de piste ?",Docs\CS-25 (Amendment 27).pdf:407,essais|alerte|piste,fr
+"Under 21.A.3A, what occurrences must be reported by organisations?",Docs\313A4D_2024-07-01_21.19.12_EAR-for-Initial-Airworthiness-and-Environmental-Protection-Regulation-EU-No-748-2012.pdf:60,occurrence|reporting|21.A.3A,en
+Quelles sont les obligations de coordination entre conception et production selon 21.A.4 ?,Docs\313A4D_2024-07-01_21.19.12_EAR-for-Initial-Airworthiness-and-Environmental-Protection-Regulation-EU-No-748-2012.pdf:82,coordination|production,fr
+"According to 21.A.7, what are the requirements for Instructions for Continued Airworthiness (ICA)?",Docs\313A4D_2024-07-01_21.19.12_EAR-for-Initial-Airworthiness-and-Environmental-Protection-Regulation-EU-No-748-2012.pdf:88,ICA|continued|airworthiness,en
+Quelle est la portée de 21.A.1 (Part 21 – dispositions générales) ?,Docs\313A4D_2024-07-01_21.19.12_EAR-for-Initial-Airworthiness-and-Environmental-Protection-Regulation-EU-No-748-2012.pdf:60,portée|Part 21,fr
+What is the process for the application for a type-certificate under 21.A.15?,Docs\313A4D_2024-07-01_21.19.12_EAR-for-Initial-Airworthiness-and-Environmental-Protection-Regulation-EU-No-748-2012.pdf:111,type-certificate|application,en
+"Selon l’article 7, quelles sont les conditions d’un permis de vol (permit to fly) ?",Docs\313A4D_2024-07-01_21.19.12_EAR-for-Initial-Airworthiness-and-Environmental-Protection-Regulation-EU-No-748-2012.pdf:49,permis|vol,fr
+"Under 21.A.20, how is compliance with the certification basis demonstrated?",Docs\313A4D_2024-07-01_21.19.12_EAR-for-Initial-Airworthiness-and-Environmental-Protection-Regulation-EU-No-748-2012.pdf:131,compliance|certification|basis,en
+Quelles sont les exigences relatives aux organisations de conception (article 8) ?,Docs\313A4D_2024-07-01_21.19.12_EAR-for-Initial-Airworthiness-and-Environmental-Protection-Regulation-EU-No-748-2012.pdf:50,organisation|conception,fr
