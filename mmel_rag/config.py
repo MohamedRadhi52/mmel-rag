@@ -1,8 +1,8 @@
 from __future__ import annotations
-
 import os
 from pathlib import Path
 from dotenv import load_dotenv   
+
 load_dotenv()
 # Racine du projet 
 PROJECT_ROOT = Path(__file__).resolve().parents[1]
@@ -22,7 +22,6 @@ OPENAI_EMBEDDING_MODEL = os.getenv("MMEL_RAG_EMBED_MODEL","text-embedding-3-larg
 
 TRANSLATION_MODEL = os.getenv("MMEL_RAG_TRANSLATION_MODEL","gpt-4o",)
 
-
-# CHUNK_SIZE et CHUNK_OVERLAP
-CHUNK_SIZE = 700
+# CHUNK_SIZE et CHUNK_OVERLAP 
+CHUNK_SIZE = 700 # meilleurs résultats observés avec cette valeur
 CHUNK_OVERLAP = 120
