@@ -15,30 +15,30 @@ Le projet est structuré comme un vrai **package Python** (`mmel_rag`) avec :
 
 ## 1. Fonctionnalités principales
 
-- 🔎 **Recherche hybride sur PDF réglementaires**
+-  **Recherche hybride sur PDF réglementaires**
   - Recherche dense (embeddings OpenAI + FAISS)
   - BM25 avec traduction FR→EN et petites heuristiques de réécriture de requête
   - Fusion par **Reciprocal Rank Fusion (RRF)**
 
-- 📄 **Pipeline PDF adapté aux docs de réglementation**
+-  **Pipeline PDF adapté aux docs de réglementation**
   - Chargement page par page
   - Nettoyage texte (espaces, césures, ligatures…)
   - Filtrage des pages de **table des matières** (sommaires)
 
-- 🧩 **Découpage en chunks optimisé**
+-  **Découpage en chunks optimisé**
   - `CHUNK_SIZE = 700`, `CHUNK_OVERLAP = 120`
   - Ce choix vient de plusieurs essais sur un dev set (~50 questions) : 700 caractères donnait le meilleur compromis rappel / bruit.
 
-- 📊 **Évaluation intégrée**
+-  **Évaluation intégrée**
   - Dev set au format CSV (question + méta sur la "bonne" page)
   - Métriques de retrieval : `hit@1`, `hit@3`, `hit@5`, `MRR`, `nDCG@5`
   - Export en CSV pour analyser les erreurs.
 
-- 💬 **API Q/R simple + CLI**
+-  **API Q/R simple + CLI**
   - Fonction Python `answer_question(...)`
   - Ligne de commande : `python -m mmel_rag -q "..." --mode hybrid`
 
-- ✅ **Tests unitaires**
+-  **Tests unitaires**
   - Vérification de la config / des fichiers
   - Tests sur la détection des sommaires
   - Tests sur la déduplication de pages et la normalisation des références CS/AMC
@@ -288,3 +288,4 @@ pytest mmel_rag/tests/ -v
 pytest mmel_rag/tests/test_indexing.py -v
 pytest mmel_rag/tests/test_retrieval.py -v
 ```
+
